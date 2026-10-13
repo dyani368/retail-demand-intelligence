@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.git/
+store-sales-time-series-forecasting/
+artifacts/
+.pytest_cache/
